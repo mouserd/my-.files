@@ -1,0 +1,6 @@
+[user]
+	name = David Mouser
+	email = david.mouser@gmail.com
+[core]
+	editor = vim -f
+	autocrlf = input
