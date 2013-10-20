@@ -1,0 +1,50 @@
+Application\ Data
+Applications
+Desktop
+Documents
+Downloads
+Google\ Drive
+Library
+Movies
+Music
+Pictures
+Public
+VirtualBox Images
+VirtualBox VMs
+workspace
+*.swp
+.*history
+.adobe
+.android
+.bundler
+.CFUserTextEncoding
+.composer
+.config
+.cups
+.dropbox
+.dvdcss
+.DS_Store
+.eclipse*
+.fontconfig
+.gem
+.ghc
+.heroku
+.ICUTF8D
+.idea
+.ievms
+.ivy2
+.lesshst
+.netrc
+.npm
+.m2
+.oh-my-zsh
+.passwordsafe
+.project
+.rvm
+.sbt
+.settings
+.ssh
+.subversion*
+.Trash
+.viminfo
+.zsh-update
