@@ -47,8 +47,9 @@ export PATH=/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/usr/X11/bin:/usr/local
 
 export EDITOR="vim"
 
-#BAT_CHARGE=batcharge.py
+export JAVA_HOME=/Library/Java/JavaVirtualMachines/1.7.0.jdk/Contents/Home
 
+#BAT_CHARGE=batcharge.py
 
 PATH=$PATH:$HOME/.rvm/bin # Add RVM to PATH for scripting
 PATH=$PATH:$HOME/workspace/tools/play-2.1.1 # Add Play Framework
